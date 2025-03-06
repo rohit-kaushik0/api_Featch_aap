@@ -22,7 +22,7 @@ API Fetch App is a Flutter application that demonstrates how to:
 1. Ensure Flutter is installed. Follow the [Flutter installation guide](https://docs.flutter.dev/get-started/install) if needed.
 2. Clone the repository:
    ```
-   git clone <repository_url>
+   git clone https://github.com/rohit-kaushik0/api_Featch_aap
    ```
 3. Navigate to the project directory:
    ```
